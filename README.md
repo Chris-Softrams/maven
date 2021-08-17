@@ -1,2 +1,2 @@
-# maven
-Maven repo for building image to store at GitHub
+# maven:ibmjava
+  maven:ibmjava with git
