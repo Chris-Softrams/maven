@@ -1,2 +1,1 @@
-# maven:ibmjava
-  maven:ibmjava with git
+Moved to https://github.com/softrams/docker-images
